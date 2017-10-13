@@ -108,7 +108,7 @@ console.log(rates);
 
 
 
-
+/*
 
 // First class function: functions returning functions
 
@@ -139,3 +139,34 @@ designerQuestion('Hari');
 designerQuestion('Sita');
 
 interviewQuestion('teacher')('Sita');
+
+*/
+
+
+/*
+// Immediately Invoked Function Expressions (IIFE)
+
+var game = function game() {
+    var score = Math.random() * 10;
+    console.log(score >= 5);
+}
+
+game();
+*/
+
+
+
+
+
+/*
+
+
+
+
+
+
+
+
+
+
+*/
